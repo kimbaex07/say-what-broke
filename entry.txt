@@ -1,0 +1,1 @@
+The server ran out of disk space mid-save and gave up without telling anyone. Your work is still in this tab — copy it somewhere safe before you close it.
